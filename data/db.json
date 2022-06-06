@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "practice React",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "New Todo!!!",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "query Client",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
